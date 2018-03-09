@@ -1,0 +1,18 @@
+import java.awt.*; 
+6 
+ 
+7 public class Hyperbola { 
+8   private static final int PANEL_SIZE = 512; 
+9   private static final int LOWER_GRID_LENGTH = 32; 
+10   private static final int UPPER_GRID_LENGTH = 8; 
+11    
+12   public static void main(String[] args) { 
+13     System.out.println("Lab 4 written by Devin Tuchsen"); 
+14     DrawingPanel panel = new DrawingPanel(PANEL_SIZE, PANEL_SIZE); 
+15     Graphics g = panel.getGraphics(); 
+16     for(int i = 0; i <= PANEL_SIZE; i+=LOWER_GRID_LENGTH) 
+17       g.drawLine(0, i, i, PANEL_SIZE); 
+18     for(int i = PANEL_SIZE; i >= 0; i-=UPPER_GRID_LENGTH) 
+19       g.drawLine(PANEL_SIZE, i, i, 0); 
+20   } 
+21 } 
