@@ -1,0 +1,16 @@
+Welcome to DrJava.  Working directory is C:\Users\iffi_\OneDrive\Documents\Programming I\Labs\Lab0
+> run Initials
+Lab 0 written by Irfan Syed
+IIIIIIIII  QQQQ     SSSSSS
+   II     Q    Q   SS
+   II     Q    Q    SS
+   II     Q    Q      SS
+   II     Q    Q        SS
+   II     Q    Q           SSSS
+   II     Q    Q           SS
+   II     Q  Q Q          SS
+   II     Q   QQ   SS   SS
+IIIIIIII   QQQQQ     SSSS
+                Q
+                 Q
+> 

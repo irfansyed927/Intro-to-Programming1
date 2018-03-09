@@ -1,0 +1,9 @@
+Welcome to DrJava.  Working directory is C:\Users\iffi_\OneDrive\Documents\Programming I\Labs\Lab 6
+> run Playoffs
+Lab 6 written by Irfan Syed
+Please enter the percentage chance team 1 will win : [DrJava Input Box]
+212121221111111211211221221112211222112122221111222112222112212211222212211222112121211212121122121111112111212221221212121222211222111112121211211222111112222122221121212121212211212211122221111111211222112121211121122111
+Team 1 playoffs won: 116
+Team 2 playoffs won: 106
+Team 1 won the championship!
+> 

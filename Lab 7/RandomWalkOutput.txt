@@ -1,0 +1,2 @@
+Welcome to DrJava.  Working directory is C:\Users\iffi_\OneDrive\Documents\Programming I\Labs\Lab 7
+> 

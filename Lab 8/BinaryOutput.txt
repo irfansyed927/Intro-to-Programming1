@@ -1,0 +1,15 @@
+Welcome to DrJava.  Working directory is C:\Users\iffi_\OneDrive\Documents\Programming I\Labs\Lab 8
+> run Binary
+Lab 8 written by Irfan Syed
+Please enter a decimal number:  [DrJava Input Box]
+42 in binary is 101010.
+Please enter a binary number:  [DrJava Input Box]
+10101011 in decimal is 171.
+Would you like to continue? (yes or no):  [DrJava Input Box]
+Please enter a decimal number:  [DrJava Input Box]
+50 in binary is 110010.
+Please enter a binary number:  [DrJava Input Box]
+10101010 in decimal is 170.
+Would you like to continue? (yes or no):  [DrJava Input Box]
+Thank You! Have a nice day!
+> 
