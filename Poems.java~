@@ -1,0 +1,5 @@
+public class Poems {
+  public static void main(String[] args) {
+    // Print title
+    System.out.println("Mary Had a Little Lamb");
+    System.out.println();
