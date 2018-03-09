@@ -1,0 +1,19 @@
+Welcome to DrJava.  Working directory is C:\Users\iffi_\OneDrive\Documents\Programming I\Labs\Lab 5
+> run Circles
+Lab 5 written by Irfan Syed
+Please enter data for the red circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+Please enter data for the green circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+Please enter data for the blue circle:
+Center (x,y):  [DrJava Input Box]
+Radius:  [DrJava Input Box]
+The red circle is smaller than the green circle.
+The red circle is smaller than the blue circle.
+The green circle is smaller than the blue circle.
+The red circle intersects the green circle.
+The red circle intersects the blue circle.
+The green circle intersects the blue circle.
+> 
